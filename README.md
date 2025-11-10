@@ -10,9 +10,9 @@ The goal of this dashboard is to provide insights into patient waiting times, ho
 2. Interactive Visuals: Includes slicers and dynamic filters to view patient trends by department, hospital, or time period.
 3. Performance KPIs: Tracks key healthcare metrics like:
      > Average patient waiting time
-     > Number of patients on the waiting list
-     > Completed vs pending appointments
-     > Hospital efficiency and capacity utilization
+     > ,Number of patients on the waiting list
+     > ,Completed vs pending appointments
+     > ,Hospital efficiency and capacity utilization
 4. Clean Dashboard Design: Focused on accessibility, readability, and user-friendly navigation.
 
 **Learning Focus**
